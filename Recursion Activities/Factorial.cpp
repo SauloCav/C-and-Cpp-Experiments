@@ -1,10 +1,7 @@
 #include<stdio.h>
-#include<string.h>
-#include<locale.h>
 #include<stdlib.h>
 #include<math.h>
 #include<iostream>
-#include<string.h>
 
 int fat(int n);
 
@@ -16,7 +13,6 @@ int main(){
 	scanf("%d", &n);
 	
 	r=fat(n);
-	
 	printf("\nfatorial de %d = %d", n, r);
 	
 }

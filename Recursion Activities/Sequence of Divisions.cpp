@@ -13,7 +13,6 @@ int main(){
 	scanf("%f", &n);
 	
 	h=sod(n, cc, i);
-	
 	printf("resultado: %f", h);
 	
 }
@@ -21,14 +20,10 @@ int main(){
 float sod(float n, float cc, float i){
 	
 	if(i<=n){
-		
 		return sod(n, cc+=1/i, i+1);
-		
 	}
 	else{
-		
 		return cc;
-		
 	}
 	
 }
