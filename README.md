@@ -1,4 +1,4 @@
-# Cpp-Experiments
+# C-and-Cpp-Experiments
 
 Some simple activities developed in C and C++
 
