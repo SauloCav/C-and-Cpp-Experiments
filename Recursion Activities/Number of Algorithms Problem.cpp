@@ -1,10 +1,7 @@
 #include<stdio.h>
-#include<string.h>
-#include<locale.h>
 #include<stdlib.h>
 #include<math.h>
 #include<iostream>
-#include<string.h>
 
 int alg(int n, int cc);
 
