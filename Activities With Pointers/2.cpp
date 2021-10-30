@@ -3,8 +3,6 @@
 #include<math.h>
 #include<iostream>
 
-using namespace std;
-
 int main(){
 	
 	int *a, *b, c=4, d=2;
