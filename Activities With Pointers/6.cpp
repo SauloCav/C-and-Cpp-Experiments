@@ -1,7 +1,12 @@
 #include<stdio.h>
+#include<string.h>
+#include<locale.h>
 #include<stdlib.h>
 #include<math.h>
 #include<iostream>
+#include<string.h>
+
+using namespace std;
 
 void perm(char *a, char *b);
 
